@@ -1,6 +1,5 @@
 # GroupProject 
 Here's the init for the new project - SF
-is this thing on?
 
 PROJECT HYPE!!!!!! - Sir Risbutt
 
